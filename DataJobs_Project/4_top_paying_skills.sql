@@ -20,6 +20,7 @@ GROUP BY skills_dim.skills
 ORDER BY average_salary DESC
 LIMIT 25;
 
+
 /*
 Key Takeaways:
 1. Hybrid Skillsets Pay More: The highest earners tend to combine data analysis with engineering, cloud, and machine learning skills.
